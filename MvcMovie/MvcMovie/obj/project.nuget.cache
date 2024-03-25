@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "96KtYDpK1FTNAreCP/n3ARqtEfCpMeXFuUw/4fV9EhmbMefEalvbNWiYPDyPa6C6TcHdtV2xpMFXhnKg9xn8rQ==",
+  "success": true,
+  "projectFilePath": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab3\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
